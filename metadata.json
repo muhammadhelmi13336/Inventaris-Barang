@@ -1,0 +1,8 @@
+{
+  "name": "Remix: InveTrak",
+  "description": "Sistem pengelolaan inventaris alat, barang habis pakai, agenda peminjaman multi-alat, dan agenda pribadi/harian pintar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
